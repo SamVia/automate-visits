@@ -2,7 +2,7 @@ name: Website Automation
 
 on:
   schedule:
-    - cron: '6 11 * * *'  
+    - cron: '10 11 * * *'  
 
 jobs:
   automate:
